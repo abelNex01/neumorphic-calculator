@@ -29,7 +29,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/neumorphic-calculator.git
+git clone https://github.com/abelNex01/neumorphic-calculator.git
 Open in Browser
 
 Open the index.html file in any modern browser:
