@@ -49,7 +49,11 @@ neumorphic-calculator/
 ├── script.js # Calculator logic
 └── README.md # Project documentation
 📸 Screenshots
-(Add a screenshot of your calculator interface here)
+
+![Calculator Screenshot](images/calculator-screenshot.png)
+
+_Screenshot of the Neumorphic Calculator interface_
+
 If hosted online, you can also include a live demo link:
 
 🔗 Live Demo
