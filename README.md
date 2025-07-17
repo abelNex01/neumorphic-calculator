@@ -52,11 +52,8 @@ neumorphic-calculator/
 
 ![Calculator Screenshot](images/calculator-screenshot.png)
 
-_Screenshot of the Neumorphic Calculator interface_
-
-If hosted online, you can also include a live demo link:
-
 🔗 Live Demo
+https://neumorphic-calculator-bay.vercel.app/
 
 🧠 Inspiration
 This project was inspired by the growing trend of Neumorphism, aiming to bring a realistic, soft UI experience to web interfaces.
